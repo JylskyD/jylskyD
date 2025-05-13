@@ -4,7 +4,7 @@
 
 - 🌎 Speak 🇫🇷 and 🇺🇸
 
-- 📫 Contact me [**@jylsky**](https://discord.com/users/325333067361288205)
+- 📫 Contact me [**@293840934**](https://discord.com/users/325333067361288205)
 
 ---
 
