@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jylsky)](https://git.io/typing-svg)
   
-- 🌱 I’m currently learning **javascript and python.**
+- 🌱 CEO of [Optimyzer](https://optimyzer.cc)
 
 - 🌎 Speak 🇫🇷 and 🇺🇸
 
-- 📫 Contact me [**@wvwwcv**](https://discord.com/users/325333067361288205)
+- 📫 Contact me [**@jylsky**](https://discord.com/users/325333067361288205)
 
 ---
 
