@@ -6,8 +6,6 @@
 
 - 📫 Contact me [**@jylsky**](https://discord.com/users/325333067361288205)
 
----
-
 ## Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/325333067361288205)
