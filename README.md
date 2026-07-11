@@ -22,5 +22,4 @@
 &nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://adobe.com/products/photoshop.html)
-&nbsp;
+[![C++](https://skillicons.dev/icons?i=cpp)
