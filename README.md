@@ -22,4 +22,4 @@
 &nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;
-[![C++](https://skillicons.dev/icons?i=cpp)
+![C++](https://skillicons.dev/icons?i=cpp)
